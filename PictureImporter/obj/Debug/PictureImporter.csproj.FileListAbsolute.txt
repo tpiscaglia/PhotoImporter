@@ -1,0 +1,9 @@
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\bin\Debug\PictureImporter.exe.config
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\bin\Debug\PictureImporter.exe
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\bin\Debug\PictureImporter.pdb
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\obj\Debug\PictureImporter.csprojAssemblyReference.cache
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\obj\Debug\PictureImporter.Properties.Resources.resources
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\obj\Debug\PictureImporter.csproj.GenerateResource.cache
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\obj\Debug\PictureImporter.exe
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\obj\Debug\PictureImporter.pdb
+C:\Users\tpisc\source\repos\PictureImporter\PictureImporter\obj\Debug\PictureImporter.MainWindow.resources
